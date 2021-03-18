@@ -12,7 +12,7 @@ This research project has three main priorities.
 * We will study how the treatment of patients with cardiovascular disease has been affected during the pandemic.
 * We will develop and improve models that predict the risk of dying at one year among people with cardiovascular disease who have and who have not contracted COVID-19.
 
-Our research will help to shape health policy, help patients and clinicians to make more informed decisions, and improve health outcomes..
+Our research will help to shape health policy, help patients and clinicians to make more informed decisions, and improve health outcomes.
 
 ## Project approval
 
