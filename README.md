@@ -8,9 +8,9 @@ Access to data from healthcare records will help to improve our understanding of
 
 This research project has three main priorities.
 
-For people with cardiovascular disease, we will estimate by how much becoming infected or unwell with COVID-19 increases their risk of dying within one year of infection. This will involve analysing routine healthcare data from multiple sources, including from general practices, hospitals and national death registers.
-We will study how the treatment of patients with cardiovascular disease has been affected during the pandemic.
-We will develop and improve models that predict the risk of dying at one year among people with cardiovascular disease who have and who have not contracted COVID-19.
+* For people with cardiovascular disease, we will estimate by how much becoming infected or unwell with COVID-19 increases their risk of dying within one year of infection. This will involve analysing routine healthcare data from multiple sources, including from general practices, hospitals and national death registers.
+* We will study how the treatment of patients with cardiovascular disease has been affected during the pandemic.
+* We will develop and improve models that predict the risk of dying at one year among people with cardiovascular disease who have and who have not contracted COVID-19.
 
 Our research will help to shape health policy, help patients and clinicians to make more informed decisions, and improve health outcomes..
 
