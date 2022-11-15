@@ -19,7 +19,7 @@ Our research will help to shape health policy, help patients and clinicians to m
 The priorities stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
 * [CCU003_01: A retrospective cohort study measured predicting and validating the impact of the COVID-19 pandemic in individuals with chronic kidney disease](https://github.com/BHFDSC/CCU003_01)
-* [CCU003_03: Using national electronic health records for pandemic preparedness: validation of a parsimonious model for predicting excess COVID-19 deaths](https://github.com/BHFDSC/CCU003_03)
+* [CCU003_03: Using national electronic health records for pandemic preparedness: validation of a parsimonious model for predicting excess deaths among those with COVID-19 – a data-driven retrospective cohort study](https://github.com/BHFDSC/CCU003_03)
 
 > Links to repositories for additional outputs will follow in due course.
 
