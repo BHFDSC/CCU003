@@ -21,6 +21,7 @@ The priorities stated above will be addressed in outputs from a number of relate
 * [CCU003_01: A retrospective cohort study measured predicting and validating the impact of the COVID-19 pandemic in individuals with chronic kidney disease](https://github.com/BHFDSC/CCU003_01)
 * [CCU003_03: Using national electronic health records for pandemic preparedness: validation of a parsimonious model for predicting excess deaths among those with COVID-19 – a data-driven retrospective cohort study](https://github.com/BHFDSC/CCU003_03)
 * [CCU003_04: Effects of the COVID-19 pandemic on secondary care for cardiovascular disease in the UK: an electronic health record analysis across three countries](https://github.com/BHFDSC/CCU003_04)
+* [CCU003_05: The impact of the COVID-19 pandemic on cardiovascular risk factors and events in England: a population-based cohort study](https://github.com/BHFDSC/CCU003_05)
 
 > Links to repositories for additional outputs will follow in due course.
 
